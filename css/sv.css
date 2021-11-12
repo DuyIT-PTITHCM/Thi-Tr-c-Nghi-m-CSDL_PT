@@ -1,0 +1,10 @@
+
+.datepicker {
+    font-size: 0.875em;
+}
+/* solution 2: the original datepicker use 20px so replace with the following:*/
+
+.datepicker td, .datepicker th {
+    width: 1.5em;
+    height: 1.5em;
+}
